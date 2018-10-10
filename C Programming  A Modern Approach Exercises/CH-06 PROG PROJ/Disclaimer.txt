@@ -1,0 +1,6 @@
+Plz check KN KING PORG PROJ online solution for c6p6.c   
+c6p6.c and c6p7.c might need to be modified.
+
+c6p8.c have to be understood from KN KING books.
+c6p12.c might need some editing.
+c6p11.c could be more readable.
