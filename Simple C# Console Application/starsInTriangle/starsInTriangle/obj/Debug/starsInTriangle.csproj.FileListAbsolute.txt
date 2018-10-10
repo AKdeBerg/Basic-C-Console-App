@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\starsInTriangle\starsInTriangle\bin\Debug\starsInTriangle.exe.config
+C:\Users\USER\Desktop\starsInTriangle\starsInTriangle\bin\Debug\starsInTriangle.exe
+C:\Users\USER\Desktop\starsInTriangle\starsInTriangle\bin\Debug\starsInTriangle.pdb
+C:\Users\USER\Desktop\starsInTriangle\starsInTriangle\obj\Debug\starsInTriangle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\starsInTriangle\starsInTriangle\obj\Debug\starsInTriangle.exe
+C:\Users\USER\Desktop\starsInTriangle\starsInTriangle\obj\Debug\starsInTriangle.pdb
+C:\Users\USER\Music\C# Projects\C# A Player's Guide\starsInTriangle\starsInTriangle\bin\Debug\starsInTriangle.exe.config
+C:\Users\USER\Music\C# Projects\C# A Player's Guide\starsInTriangle\starsInTriangle\bin\Debug\starsInTriangle.exe
+C:\Users\USER\Music\C# Projects\C# A Player's Guide\starsInTriangle\starsInTriangle\bin\Debug\starsInTriangle.pdb
+C:\Users\USER\Music\C# Projects\C# A Player's Guide\starsInTriangle\starsInTriangle\obj\Debug\starsInTriangle.csprojAssemblyReference.cache
+C:\Users\USER\Music\C# Projects\C# A Player's Guide\starsInTriangle\starsInTriangle\obj\Debug\starsInTriangle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Music\C# Projects\C# A Player's Guide\starsInTriangle\starsInTriangle\obj\Debug\starsInTriangle.exe
+C:\Users\USER\Music\C# Projects\C# A Player's Guide\starsInTriangle\starsInTriangle\obj\Debug\starsInTriangle.pdb

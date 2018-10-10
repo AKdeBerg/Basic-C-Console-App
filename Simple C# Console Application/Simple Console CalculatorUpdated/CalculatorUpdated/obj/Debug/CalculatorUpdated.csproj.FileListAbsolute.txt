@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CalculatorUpdated\CalculatorUpdated\bin\Debug\CalculatorUpdated.exe.config
+C:\Users\USER\Desktop\CalculatorUpdated\CalculatorUpdated\bin\Debug\CalculatorUpdated.exe
+C:\Users\USER\Desktop\CalculatorUpdated\CalculatorUpdated\bin\Debug\CalculatorUpdated.pdb
+C:\Users\USER\Desktop\CalculatorUpdated\CalculatorUpdated\obj\Debug\CalculatorUpdated.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\CalculatorUpdated\CalculatorUpdated\obj\Debug\CalculatorUpdated.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CalculatorUpdated\CalculatorUpdated\obj\Debug\CalculatorUpdated.exe
+C:\Users\USER\Desktop\CalculatorUpdated\CalculatorUpdated\obj\Debug\CalculatorUpdated.pdb

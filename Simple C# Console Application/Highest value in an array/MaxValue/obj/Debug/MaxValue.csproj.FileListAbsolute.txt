@@ -1,0 +1,13 @@
+C:\Users\USER\Music\C# Projects\MaxValue\MaxValue\bin\Debug\MaxValue.exe.config
+C:\Users\USER\Music\C# Projects\MaxValue\MaxValue\bin\Debug\MaxValue.exe
+C:\Users\USER\Music\C# Projects\MaxValue\MaxValue\bin\Debug\MaxValue.pdb
+C:\Users\USER\Music\C# Projects\MaxValue\MaxValue\obj\Debug\MaxValue.csproj.CoreCompileInputs.cache
+C:\Users\USER\Music\C# Projects\MaxValue\MaxValue\obj\Debug\MaxValue.exe
+C:\Users\USER\Music\C# Projects\MaxValue\MaxValue\obj\Debug\MaxValue.pdb
+C:\Users\USER\Music\C# Projects\GitHub\Simple C# Console Application\Highest value in an array\MaxValue\bin\Debug\MaxValue.exe.config
+C:\Users\USER\Music\C# Projects\GitHub\Simple C# Console Application\Highest value in an array\MaxValue\bin\Debug\MaxValue.exe
+C:\Users\USER\Music\C# Projects\GitHub\Simple C# Console Application\Highest value in an array\MaxValue\bin\Debug\MaxValue.pdb
+C:\Users\USER\Music\C# Projects\GitHub\Simple C# Console Application\Highest value in an array\MaxValue\obj\Debug\MaxValue.csprojAssemblyReference.cache
+C:\Users\USER\Music\C# Projects\GitHub\Simple C# Console Application\Highest value in an array\MaxValue\obj\Debug\MaxValue.csproj.CoreCompileInputs.cache
+C:\Users\USER\Music\C# Projects\GitHub\Simple C# Console Application\Highest value in an array\MaxValue\obj\Debug\MaxValue.exe
+C:\Users\USER\Music\C# Projects\GitHub\Simple C# Console Application\Highest value in an array\MaxValue\obj\Debug\MaxValue.pdb

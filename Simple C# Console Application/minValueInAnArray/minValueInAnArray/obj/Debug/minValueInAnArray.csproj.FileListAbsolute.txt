@@ -1,0 +1,7 @@
+C:\Users\USER\Music\C# Projects\minValueInAnArray\minValueInAnArray\bin\Debug\minValueInAnArray.exe.config
+C:\Users\USER\Music\C# Projects\minValueInAnArray\minValueInAnArray\bin\Debug\minValueInAnArray.exe
+C:\Users\USER\Music\C# Projects\minValueInAnArray\minValueInAnArray\bin\Debug\minValueInAnArray.pdb
+C:\Users\USER\Music\C# Projects\minValueInAnArray\minValueInAnArray\obj\Debug\minValueInAnArray.csprojResolveAssemblyReference.cache
+C:\Users\USER\Music\C# Projects\minValueInAnArray\minValueInAnArray\obj\Debug\minValueInAnArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\Music\C# Projects\minValueInAnArray\minValueInAnArray\obj\Debug\minValueInAnArray.exe
+C:\Users\USER\Music\C# Projects\minValueInAnArray\minValueInAnArray\obj\Debug\minValueInAnArray.pdb

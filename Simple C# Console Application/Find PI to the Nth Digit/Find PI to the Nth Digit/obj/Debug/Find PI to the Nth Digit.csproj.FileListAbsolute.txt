@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Find PI to the Nth Digit\Find PI to the Nth Digit\bin\Debug\Find PI to the Nth Digit.exe.config
+C:\Users\USER\Desktop\Find PI to the Nth Digit\Find PI to the Nth Digit\bin\Debug\Find PI to the Nth Digit.exe
+C:\Users\USER\Desktop\Find PI to the Nth Digit\Find PI to the Nth Digit\bin\Debug\Find PI to the Nth Digit.pdb
+C:\Users\USER\Desktop\Find PI to the Nth Digit\Find PI to the Nth Digit\obj\Debug\Find PI to the Nth Digit.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Find PI to the Nth Digit\Find PI to the Nth Digit\obj\Debug\Find PI to the Nth Digit.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Find PI to the Nth Digit\Find PI to the Nth Digit\obj\Debug\Find PI to the Nth Digit.exe
+C:\Users\USER\Desktop\Find PI to the Nth Digit\Find PI to the Nth Digit\obj\Debug\Find PI to the Nth Digit.pdb
